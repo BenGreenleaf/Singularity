@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ccxt": "^3.0.62",
+    "ccxt.pro": "git+https://github.com/kroitor/ccxt.pro.git"
+  }
+}
